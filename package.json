@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsdom": "^11.6.1",
+    "request": "^2.83.0"
+  }
+}
